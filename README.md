@@ -1,4 +1,4 @@
-# Grimmjow's Custom Static Site Generator (SSG)
+# Custom Static Site Generator (SSG)
 
 <p align="center">
     <a href="#" style="display: block;" align="center">
