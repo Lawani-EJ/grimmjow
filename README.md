@@ -59,7 +59,5 @@ Hi ✋🏿 this is a customizable **Static Site Generator (SSG)** that converts 
 - `template.html`: HTML template used for wrapping the converted Markdown content.
 - `package.json`: Project metadata and dependencies.
 
-## Contributing
-
+### Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
----
